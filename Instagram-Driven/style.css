@@ -29,11 +29,16 @@ header {
     height: 29px;
 }
 
+.icons img {
+    width: 22px;
+    height: 22px;
+}
+
 .icons {
     display: flex;
     gap: 20px;
     position: fixed; 
-    top: 10px;
+    top: 17px;
     right: 20px;
     z-index: 2; 
 }
@@ -148,6 +153,11 @@ header {
     height: 44px;
     display: flex;
     align-items: center;
+}
+
+.reacao img{
+    width: 22px;
+    height: 22px;
 }
 
 .reacao ion-icon{
@@ -266,10 +276,16 @@ header {
     position: fixed;
 }
 
+.mobile img {
+    display: flex;
+    width: 22px;
+    height: 22px;
+}
+
 .mobile ion-icon {
     width: 22px;
     height: 22px;
-    margin-left: 19px;
+    margin-left: 16px;
     margin-right: 90px;
 }
 
