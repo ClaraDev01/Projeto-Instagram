@@ -23,7 +23,7 @@ This project is a replica of the Instagram homepage layout, developed as part of
 ## 📌*Project Structure*  
 
 ```
-📂 Instagram-Project
+📂 Projeto-Instagram
 ├── 📄 index.html
 ├── 📄 style.css
 ├── 📄 reset.css
@@ -64,7 +64,7 @@ This is a static front-end project (HTML/CSS). To view it in your browser, you h
     * With the extension installed, open the project in VS Code, right-click on the `index.html` file, and select "Open with Live Server". This will start a local server and open the project in your browser with live reloading.
 
 3.  **Host on Free Services (Like GitHub Pages):**
-    * You can host this project for free using **GitHub Pages**. Simply configure GitHub Pages to serve content from the `main` (or `master`) branch of your repository. GitHub will then generate a public link for your site (e.g., `https://YourUsername.github.io/Instagram-Project/`).
+    * You can host this project for free using **GitHub Pages**. Simply configure GitHub Pages to serve content from the `main` (or `master`) branch of your repository. GitHub will then generate a public link for your site (e.g., `https://YourUsername.github.io/Projeto-Instagram/`).
 
 ## 📜*License*  
 
