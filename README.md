@@ -55,7 +55,7 @@ This is a static front-end project (HTML/CSS). To view it in your browser, you h
        
     * **Navigate to the project directory:**
         ```bash
-        cd Instagram-Project
+        cd Projeto-Instagram
         ```
     * **Open the `index.html` file in your preferred web browser.** You can do this by dragging the `index.html` file into the browser window or by double-clicking it.
 
